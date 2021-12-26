@@ -2,7 +2,7 @@ This app is a text editor that supports two types of encryption - AES and RSA.
 
 Run this app by running app.ui_py on python3
 
-There is no external libraries to be installed to use this app.
+There are no external libraries to be installed to use this app.
 
 Documents only in the TermProject directory are editable.
 
@@ -12,6 +12,7 @@ There are no shortcut commands available. However, one could usually return back
 
 How to use the app:
 
+Run app.ui.py as python3
 
 The user may extend the size of the app both horizontally and vertically with a cursor.
 
